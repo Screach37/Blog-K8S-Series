@@ -4,7 +4,7 @@ seoTitle: "Mastering MERN Stack Containerization: Step-by-Step Guide with Docker
 seoDescription: "Dive into the world of containerization with our comprehensive guide on Docker and Docker Compose for MERN stack applications. Learn to optimize Dockerfiles"
 datePublished: Thu Mar 07 2024 07:04:51 GMT+0000 (Coordinated Universal Time)
 cuid: cltgvunnk000q09l9e50f3los
-slug: containerizing-a-mern-stack-application-with-docker
+slug: docker-advanced
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1709794651281/ff7fbc0a-7fb7-402b-9e15-e8b310cbf954.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1709794985866/f271198a-ac9e-497e-82c0-4f539c7addcd.png
 tags: docker, deployment, mern, containerization, dockerfile, docker-compose, docker-network
