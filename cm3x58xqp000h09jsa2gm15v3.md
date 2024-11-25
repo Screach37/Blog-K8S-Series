@@ -6,6 +6,7 @@ datePublished: Mon Nov 25 2024 14:49:15 GMT+0000 (Coordinated Universal Time)
 cuid: cm3x58xqp000h09jsa2gm15v3
 slug: centralized-logging-and-management-deploying-elasticsearch-kibana-and-fluentd-on-gcp
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732547489167/53e93da0-ee37-4bfe-9a4b-dc20830c8b0e.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1732547602693/30fb424c-3173-42e4-85c1-36b59f48f9f6.png
 tags: monitoring, logging, fluentd, fluentbit, monitoring-and-logging, efk
 
 ---
