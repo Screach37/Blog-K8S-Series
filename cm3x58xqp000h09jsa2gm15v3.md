@@ -5,6 +5,7 @@ seoDescription: "Deploy Elasticsearch, Kibana, and Fluentd on GCP for centralize
 datePublished: Mon Nov 25 2024 14:49:15 GMT+0000 (Coordinated Universal Time)
 cuid: cm3x58xqp000h09jsa2gm15v3
 slug: centralized-logging-and-management-deploying-elasticsearch-kibana-and-fluentd-on-gcp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1732547489167/53e93da0-ee37-4bfe-9a4b-dc20830c8b0e.png
 tags: monitoring, logging, fluentd, fluentbit, monitoring-and-logging, efk
 
 ---
